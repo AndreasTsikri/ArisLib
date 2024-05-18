@@ -1,2 +1,2 @@
 # ArisLib
-An app that users saves their book preferences
+An app that users save their book preferences
